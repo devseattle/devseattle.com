@@ -1,10 +1,14 @@
 # devseattle.com
 
-![devseattle.com logo](./static/img/logo-no-background.png)
+[![devseattle.com logo](./static/img/logo-no-background.png)](https://devseattle.com)
 
 ## Welcome to the DevSeattle Community!
 
 This is a community for developers in the Seattle area to connect, share, and learn from each other. This repository is the home of the DevSeattle website.
+
+[![](https://dcbadge.vercel.app/api/server/6Rs9Fn395q)](https://discord.gg/6Rs9Fn395q)
+
+Join us on [Discord](https://discord.gg/6Rs9Fn395q) to connect with other developers in the Seattle area!
 
 ## Contributing
 
