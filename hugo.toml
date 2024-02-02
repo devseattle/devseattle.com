@@ -1,0 +1,15 @@
+baseURL = 'https://devseattle.com/'
+languageCode = 'en-us'
+title = 'dev://seattle'
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+name = "dev://seattle"
+headline = "A community of software developers in Seattle, WA"
+image = "img/logo-color.svg" # path relative to static directory                        # path relative to static directory
+links = [
+    { discord = "https://discord.gg/6Rs9Fn395q" },
+    { github = "https://github.com/devseattle" },
+]
